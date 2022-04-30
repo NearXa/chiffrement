@@ -14,4 +14,4 @@ function Ceasar(word, offset) {
     }
     return newWords;
 }
-console.log(Ceasar("Boule", 3)) 
+console.log(Ceasar("Salam", 3)) 
